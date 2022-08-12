@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Я прошел следующие курсы:
+1) Введение в Linux(https://stepik.org/cert/1572284)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanskiba&layout=compact)](https://github.com/stepanskiba/github-readme-stats)
 
