@@ -1,22 +1,18 @@
 ### Hi there 👋
 
-Я прошел следующие курсы:
-1) [Введение в Linux](https://vk.cc/cfWq0w)
+*Studiyng Physics in HSE-SPB
+
+Курсы на stepik:
+1) [Добрый, добрый Python ООП](https://stepik.org/course/116336)
+2) [Введение в Data Science и машинное обучение](https://stepik.org/course/4852)
+3) [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
+4) [Введение в Linux](https://stepik.org/course/73)
+
+
+### Hard Skills
+<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanskiba&layout=compact)](https://github.com/stepanskiba/github-readme-stats)
 
-<!--
-**stepanskiba/stepanskiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
