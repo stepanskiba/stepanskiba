@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Studiyng Physics in HSE-SPB
+* Studiyng Physics in HSE-SPB
 
 Курсы на stepik:
 1) [Добрый, добрый Python ООП](https://stepik.org/course/116336)
