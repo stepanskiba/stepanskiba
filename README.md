@@ -4,9 +4,10 @@
 
 Курсы на stepik:
 1) [Добрый, добрый Python ООП](https://stepik.org/course/116336)
-2) [Введение в Data Science и машинное обучение](https://stepik.org/course/4852)
-3) [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
-4) [Введение в Linux](https://stepik.org/course/73)
+2) [Основы статистики](https://stepik.org/course/76/syllabus)
+3) [Введение в Data Science и машинное обучение](https://stepik.org/course/4852)
+4) [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217)
+5) [Введение в Linux](https://stepik.org/course/73)
 
 
 ### Hard Skills
